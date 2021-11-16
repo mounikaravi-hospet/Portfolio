@@ -42,13 +42,13 @@ const Navigation = () => {
 								{greetings.name}
 							</h2>
 						</NavbarBrand>
-						<button
+						{/* <button
 							className="navbar-toggler"
 							aria-label="navbar_toggle"
 							id="navbar_global"
 						>
 							<span className="navbar-toggler-icon" />
-						</button>
+						</button> */}
 						<UncontrolledCollapse
 							toggler="#navbar_global"
 							navbar
@@ -77,10 +77,10 @@ const Navigation = () => {
 									</Col>
 								</Row>
 							</div>
-							<Nav
+							{/* <Nav
 								className="align-items-lg-center ml-lg-auto"
 								navbar
-							>
+							> */}
 								{/* <NavItem>
 									<NavLink
 										rel="noopener"
@@ -151,7 +151,7 @@ const Navigation = () => {
 										</span>
 									</NavLink>
 								</NavItem> */}
-							</Nav>
+							{/* </Nav> */}
 						</UncontrolledCollapse>
 					</Container>
 				</Navbar>
