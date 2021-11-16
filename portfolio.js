@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Mounika Ravi Hospet",
 	title: "Hi all, I'm Mounika",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+		"A Full Stack Web Development enthusiast having an experience of building Web applications with Angular and React. Constantly working towards learning new frameworks and libraries.",
 	resumeLink: "documents/Mounika_Resume.pdf",
 };
 
@@ -147,7 +147,7 @@ export const experience = [
 	{
 		role: "Web Development Intern",
 		company: "The Sparks Foundation",
-		companylogo: "/img/icons/common/airbnbLogo.png",
+		companylogo: "/img/icons/common/tsf.png",
 		date: "February 2018 – May 2018",
 		desc: "",
 		descBullets:[
