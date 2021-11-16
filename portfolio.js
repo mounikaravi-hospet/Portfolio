@@ -28,7 +28,7 @@ export const skillsSection = {
 		"",
 	skills: [
 		emoji(
-			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+			"⚡ Develop highly interactive Front end / User Interfaces for web applications."
 		),
 		emoji(
 			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
