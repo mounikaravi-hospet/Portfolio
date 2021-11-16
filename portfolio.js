@@ -15,11 +15,11 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	// facebook: "https://www.facebook.com/1hanzla100",
-	// instagram: "https://www.instagram.com/1hanzla100",
-	// twitter: "https://twitter.com/1hanzla100",
+	// facebook: "",
+	// instagram: "",
+	// twitter: "",
 	github: "https://github.com/mounikaravi-hospet",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	linkedin: "https://linkedin.com/in/mounika-ravi989",
 };
 
 export const skillsSection = {
@@ -165,12 +165,12 @@ export const projects = [
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "",
 	},
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "",
 		link: "https://example.com",
 	},
 ];
